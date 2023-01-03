@@ -1,15 +1,10 @@
-![Banner Image](assets/banner.png)
-
----
-
 # 👨 S M Ariq Islam
-
 <p style="color:#00a4b3; font-style:italic;">Senior Software Engineer</p>
 
 
 [//]: # ([![GitHub Contributions]&#40;https://img.shields.io/github/contributions/arikislam/repo-name.svg&#41;]&#40;https://github.com/arikislam/repo-name&#41;)
 
-[//]: # ([![Views]&#40;https://komarev.com/ghpvc/?username=arikislam&color=blue&label=views&#41;]&#40;https://github.com/arikislam&#41;)
+[![Views](https://komarev.com/ghpvc/?username=arikislam&color=blue&label=views)](https://github.com/arikislam)
 
 
 ## 🚀 Skills
