@@ -21,7 +21,7 @@
 
 ---
 
-> Experienced **Software Engineer & Developer** with 5 years of development experience with an emphasis in modern **PHP & JavaScript frameworks**. Demonstrated strengths include **process analysis**, **technical troubleshooting**, **project leadership**, and **communication skills**. Seeking a position on a challenging and collaborative development team.
+> Experienced **Software Engineer & Developer** with 7 years of development experience with an emphasis in modern **PHP & JavaScript frameworks**. Demonstrated strengths include **process analysis**, **technical troubleshooting**, **project leadership**, and **communication skills**. Seeking a position on a challenging and collaborative development team.
 >
 > Software Engineer with a history of good programming skills, progressive leadership, and project management, including gathering requirements, developing user cases, and delivering key initiatives. **Ability to align teams** and drive collaboration and cohesion to complete projects in a timely and cost-effective manner. **Dedicated**, responsible, and detail-oriented with a valuable combination of analytical and creative abilities to improve processes and productivity. An excellent team player with strong interpersonal communication skills.
 
