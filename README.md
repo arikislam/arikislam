@@ -1,123 +1,141 @@
-# 👨 S M Ariq Islam
-<p style="color:#00a4b3; font-style:italic;">Senior Software Engineer</p>
+# Hello! I'm S M Ariq Islam 👋
 
+<div align="center">
+  
+![Senior Software Engineer](https://img.shields.io/badge/Senior%20Software%20Engineer-7%20Years%20Experience-blue?style=for-the-badge)
+[![Views](https://komarev.com/ghpvc/?username=arikislam&color=brightgreen&style=for-the-badge&label=Profile+Views)](https://github.com/arikislam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariqislam)
 
-[//]: # ([![GitHub Contributions]&#40;https://img.shields.io/github/contributions/arikislam/repo-name.svg&#41;]&#40;https://github.com/arikislam/repo-name&#41;)
+</div>
 
-[![Views](https://komarev.com/ghpvc/?username=arikislam&color=blue&label=views)](https://github.com/arikislam)
+## 🧑‍💻 About Me
 
+I'm a passionate **Senior Software Engineer** with **7 years of hands-on experience** in building scalable web applications and solutions. I specialize in modern PHP and JavaScript frameworks, with a strong emphasis on clean code, best practices, and collaborative development.
 
-## 🚀 Skills
+- 🔭 Currently working at **Cefalo** developing payment solutions for healthcare systems
+- 🌱 Expert in **Laravel, Vue.js, and modern web technologies**
+- 💼 Previously contributed to major projects like **EasyJobs** and **SME Vai**
+- 🎯 Passionate about **clean architecture**, **performance optimization**, and **team collaboration**
+- 📍 Based in **Dhaka, Bangladesh**
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+
+### Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+## 🏆 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+**Backend Development**
+- Advanced Laravel (7, 8, 9, 10)
+- RESTful API Design
+- Database Architecture
+- Queue Management (Redis)
+- SOLID Principles
+- Design Patterns
+
+</td>
+<td width="50%">
+
+**Frontend Development**
+- Vue.js (2, 3) Expert
+- Modern JavaScript (ES6+)
+- TypeScript Implementation
+- Responsive Design
+- Component Architecture
+- Client-Server Integration
+
+</td>
+</tr>
+</table>
+
+**Additional Expertise:**
+- Master-slave replication architecture
+- Performance optimization for large datasets
+- Server deployment and configuration (Ubuntu)
+- Microservices architecture
+- Team leadership and project management
+
+## 💼 Professional Experience
+
+### 🚀 **Senior Software Engineer** at Cefalo
+*November 2022 - Present*
+
+**Project:** [Totalkapital AS](https://totalkapital.no) (Norway-based)
+- Developing innovative payment service solutions for healthcare providers
+- Replacing legacy vending machine systems to reduce operational costs
+- **Tech Stack:** PHP, Laravel, MySQL, Redis
 
 ---
 
+### 💻 **Senior PHP Developer** at WPDeveloper
+*February 2020 - October 2022*
 
-- Language: ![PHP](https://img.shields.io/static/v1?label=PHP&message=7,8&color=6181B6&style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=F7DF1E&style=flat-square&logo=javascript&logoColor=white)
-- Framework: ![Laravel](https://img.shields.io/static/v1?label=Laravel&message=7,8,9&color=FF2D20&style=flat-square&logo=laravel&logoColor=white) ![Vue.js](https://img.shields.io/static/v1?label=Vue.js&message=2,3&color=41B883&style=flat-square&logo=vue.js&logoColor=white)
-- Tools: ![Git](https://img.shields.io/static/v1?label=Git&message=2&color=F05032&style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/static/v1?label=GitHub&color=181717&style=flat-square&logo=github&logoColor=white&message=3) ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8&color=4479A1&style=flat-square&logo=mysql&logoColor=white) ![Linux](https://img.shields.io/static/v1?label=Linux&message=*&color=FCC624&style=flat-square&logo=linux&logoColor=white)
+**Key Projects:**
 
+**[EasyJobs](https://app.easy.jobs)** - Recruitment Management Platform
+- Built comprehensive job application and recruitment process management system
+- Implemented advanced filtering, candidate tracking, and automated workflows
 
-## 📈 Career Overview
+**[SME Vai](https://app.smevai.com)** - End-to-End Accounting Solution
+- Developed complete accounting software for small and medium enterprises
+- Created modular architecture for scalability and maintainability
 
----
-
-> Experienced **Software Engineer & Developer** with 7 years of development experience with an emphasis in modern **PHP & JavaScript frameworks**. Demonstrated strengths include **process analysis**, **technical troubleshooting**, **project leadership**, and **communication skills**. Seeking a position on a challenging and collaborative development team.
->
-> Software Engineer with a history of good programming skills, progressive leadership, and project management, including gathering requirements, developing user cases, and delivering key initiatives. **Ability to align teams** and drive collaboration and cohesion to complete projects in a timely and cost-effective manner. **Dedicated**, responsible, and detail-oriented with a valuable combination of analytical and creative abilities to improve processes and productivity. An excellent team player with strong interpersonal communication skills.
-
----
-
-## 💻 Technical Overview
+**Tech Stack:** PHP, Laravel, MySQL, Redis, JavaScript, Vue.js
 
 ---
 
-- Implementation of common design patterns (SOLID).
-- A deeper understanding of **Laravel Service Container**, **Service Provider** & **Facade**.
-- Understanding the **single-responsibility principle** (SRP).
-- Building **RESTful web services**.
-- Managing single-threaded and multi-threaded queues using **Redis**.
-- Understanding the nature of **promises & asynchronous programming cycles**.
-- Implementation of **client-side** and **server-side** based on behavior.
-- Knowledge of **ES6** and **TypeScript** and implementation using modules.
-- Expert in most commonly used framework **Vue Js** used v2 and v3.
-- Experience in **architecting databases** based on business logic.
-- Deeply used **Joins, Unions, Distinct**, and **Subqueries**.
-- Understanding the behaviors of **master-slave replication architecture** with the frequency of latency.
-- Handling large amounts of data by refactoring queries and properly distributing memories.
-- Setup deployment server from scratch (**Ubuntu**).
+### 🏗️ **Software Engineer** at Big M Resource Ltd.
+*March 2018 - January 2020*
 
-## 💼 Work Experience
+**Project:** NU EMS (National University Management System)
+- Developed multiple applications: Phone Book, Teacher Portal, Student Portal, Center Management
+- Led API development and database architecture using Laravel
+- **Tech Stack:** Laravel, MySQL
 
----
+## 📊 GitHub Stats
 
-### Senior Software Engineer, Cefalo
-
-##### _____ November 2022 - Present _____
-> **Project:** [Totalkapital AS](https://totalkapital.no) (Norway)
->
-> **Description:** Developed a new payment service for doctors' offices to replace the current vending machines and reduce operating costs.
->
-> **Tools/Technology:** PHP, Laravel, MySQL, Redis
-
----
-
-### Senior PHP Developer, WPDeveloper
-
-##### _____ February 2020 - October 2022 _____
-> **Project:** [EasyJobs](https://app.easy.jobs)
->
-> **Description:** Developed a recruitment process management and job application management system.
->
-> **Tools/Technology:** PHP, Laravel, MySQL, Redis, JavaScript, Vue.js
-
-##### _____ March 2021 - October 2022 _____
-> **Project:** [SME Vai](https://app.smevai.com)
->
-> **Description:** Developed an end-to-end accounting solution.
->
-> **Tools/Technology:** PHP, Laravel, MySQL, Redis, JavaScript, Vue.js
-
----
-
-### Software Engineer, Big M Resource Ltd.
-
-##### _____ March 2018 - January 2020 _____
-> **Project:** NU EMS
->
-> **Description:** Developed four apps for The National University, including a Phone Book, Teacher Application, Student Application, and Center Management. Responsible for API development with Laravel.
->
-> **Tools/Technology:** Laravel, Database
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arikislam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikislam&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
 ## 🎓 Education
 
----
+**Bachelor of Science - Computer Science & Software Engineering**  
+*American International University-Bangladesh (AIUB)*  
+📍 Dhaka, Bangladesh | 🗓️ 2012 - 2016
 
-> ##### Bachelor of Science - Computer Science & Software Engineering
-> American International University-Bangladesh (AIUB)
-> 
-> Dhaka, Bangladesh
-> 
-> 2012 - 2016
+## 🤝 Let's Connect!
 
-> ##### HSC, Science
-> Cantonment Public School & College Saidpur
-> 
-> Saidpur, Nilphamari
-> 
-> 2008 - 2011
+<div align="center">
 
-> ##### SSC, Science
-> Dinajpur Zillla School
-> 
-> Dinajpur Sadar, Dinajpur
-> 
-> 2006 - 2008
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ariqislam)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arikislam321@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arikislam)
 
-## 📧 Contact
+</div>
 
 ---
 
-- **LinkedIn:** [https://www.linkedin.com/in/ariqislam](https://www.linkedin.com/in/ariqislam)
-- **Email:** [arikislam321@gmail.com](mailto:arikislam321@gmail.com)
-
-Thanks for visiting!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  
+  **"Building scalable solutions, one line of code at a time"** 
+  
+  Thanks for visiting my profile! 🚀
+</div>
