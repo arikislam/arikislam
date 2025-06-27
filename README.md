@@ -107,11 +107,23 @@ I'm a passionate **Senior Software Engineer** with **7 years of hands-on experie
 - Led API development and database architecture using Laravel
 - **Tech Stack:** Laravel, MySQL
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arikislam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikislam&layout=compact&langs_count=7&theme=tokyonight"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arikislam&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arikislam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arikislam&theme=dark&hide_border=true&background=0d1117)
+
+</div>
+
+<div align="center">
+
+### 📈 Activity Graph
+[![Ariq's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arikislam&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f0f6fc)](https://github.com/arikislam)
+
 </div>
 
 ## 🎓 Education
