@@ -107,22 +107,6 @@ I'm a passionate **Senior Software Engineer** with **7 years of hands-on experie
 - Led API development and database architecture using Laravel
 - **Tech Stack:** Laravel, MySQL
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=arikislam&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10" alt="Ariq's GitHub Stats" width="47%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arikislam&layout=compact&theme=radical&border_radius=10" alt="Top Languages" width="47%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=arikislam&theme=radical&border_radius=10" alt="GitHub Streak Stats" />
-
-</div>
-
 ## 🎓 Education
 
 **Bachelor of Science - Computer Science & Software Engineering**  
